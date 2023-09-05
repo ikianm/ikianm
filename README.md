@@ -1,5 +1,4 @@
-# 💫 About Me: 
-<br>21 years old<br>Final semester student of Computer Engineering - Software<br>Front-End Developer<br>Currently diving into Next JS
+# 💫 About Me: <br>21 years old<br>Student of Computer Engineering<br>Front-End Developer<br>Currently diving into Next JS
 
 
 ## 🌐 Socials:
