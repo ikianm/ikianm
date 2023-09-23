@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm Kian<br>21 years old<br>Student of Computer Engineering<br>Front-End Developer<br>Currently diving into Next JS
+I'm Kian<br>21 years old<br>Computer Engineering Student<br>Front-End Developer<br>Currently diving into Next JS
 
 
 ## 🌐 Socials:
